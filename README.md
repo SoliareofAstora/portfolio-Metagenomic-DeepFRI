@@ -2,6 +2,8 @@
 
 ## About The Project
 
+This repository is discontinued. For current version, plesae go to [Małopolskie Centrum Biotechnologii repository](https://github.com/bioinf-mcb/Metagenomic-DeepFRI)
+
 ### Built With
 
 * [DeepFRI](https://github.com/flatironinstitute/DeepFRI)
