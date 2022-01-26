@@ -1,5 +1,9 @@
 # Metagenomic-DeepFRI
 
+This repository is for portfolio purposes only. 
+
+For currently maintained version go to [Małopolskie Centrum Biotechnologii repository](https://github.com/bioinf-mcb/Metagenomic-DeepFRI)
+
 ## About The Project
 Do you have **thousands of protein sequences** with **unknown structures**, but still want to know their 
 molecular function, biological process, cellular component and enzyme commission **predicted by DeepFRI Graph Convolutional Network?**
@@ -8,8 +12,6 @@ This is the right project for this task! Pipeline in a nutshell:
 1. Search for similar target protein sequences using MMseqs2
 2. Align target protein contact map to fit your query protein with unknown structure 
 3. Run predictions on query sequence combined with aligned target contact map or sequence alone if no alignment was found
-
-This repository is discontinued. For current version go to [Małopolskie Centrum Biotechnologii repository](https://github.com/bioinf-mcb/Metagenomic-DeepFRI)
 
 ### Built With
 
