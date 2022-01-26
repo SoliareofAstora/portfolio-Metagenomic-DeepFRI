@@ -9,6 +9,8 @@ This is the right project for this task! Pipeline in a nutshell:
 2. Align target protein contact map to fit your query protein with unknown structure 
 3. Run predictions on query sequence combined with aligned target contact map or sequence alone if no alignment was found
 
+This repository is discontinued. For current version go to [Małopolskie Centrum Biotechnologii repository](https://github.com/bioinf-mcb/Metagenomic-DeepFRI)
+
 ### Built With
 
 * [DeepFRI](https://github.com/SoliareofAstora/DeepFRI)
